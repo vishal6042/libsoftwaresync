@@ -71,6 +71,12 @@
                 android:text="@string/status_text_phase"
                 android:textSize="10sp" />
 
+            <Button
+                android:id="@+id/record_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Record"/>
+
             <TextView
                 android:id="@+id/sensor_exposure"
                 android:layout_width="match_parent"
